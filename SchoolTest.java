@@ -24,9 +24,6 @@ class Person {
     // Main class 
     public class SchoolTest {
         public static void main(String[] args) {
-            Person per = new Person("Raquiren", 18);
-            per.displayInfo();
-
             Student stud = new Student("Raquiren", 18, "12th Grade");
             stud.displayInfo();
 
